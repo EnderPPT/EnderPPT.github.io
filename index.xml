@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>赛博漫游指南</title><link>https://EnderPPT.github.io/</link><description>Recent content from 赛博漫游指南</description><generator>Hugo</generator><language>zh-cn</language><managingEditor>2659499379@qq.com (EnderPPT)</managingEditor><webMaster>2659499379@qq.com (EnderPPT)</webMaster><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate><atom:link href="https://EnderPPT.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://EnderPPT.github.io/post/hello/</link><pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate><author>2659499379@qq.com (EnderPPT)</author><guid>https://EnderPPT.github.io/post/hello/</guid><description>
-<![CDATA[<h1>Hello World</h1><p>作者：EnderPPT（2659499379@qq.com）</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>赛博漫游指南</title><link>https://EnderPPT.github.io/</link><description>Recent content from 赛博漫游指南</description><generator>Hugo</generator><language>zh-cn</language><managingEditor>2659499379@qq.com (EnderPPT)</managingEditor><webMaster>2659499379@qq.com (EnderPPT)</webMaster><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Mon, 09 Jun 2025 21:11:00 +0800</lastBuildDate><atom:link href="https://EnderPPT.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>使用 GitHub Pages + Hugo 搭建自己的个人博客网站，史上最详细！</title><link>https://EnderPPT.github.io/post/bolgbuild/</link><pubDate>Mon, 09 Jun 2025 21:11:00 +0800</pubDate><author>2659499379@qq.com (EnderPPT)</author><guid>https://EnderPPT.github.io/post/bolgbuild/</guid><description>
+<![CDATA[<h1>使用 GitHub Pages + Hugo 搭建自己的个人博客网站，史上最详细！</h1><p>作者：EnderPPT（2659499379@qq.com）</p>
         
-          <p>💘 博麗 霊夢 💘</p>
+          <h1 id="前言">
+<a class="header-anchor" href="#%e5%89%8d%e8%a8%80"></a>
+前言
+</h1><p>由于自己老是喜欢在往上捣鼓一些东西，于是打算搭建一个博客记录一下自己的学习经历，希望这些经历能对你有帮助。因为个人财力有限，没法持久的买服务器，所以就想到了Github Pages，部署的过程还是能学到很多知识的。</p>
         
-        <hr><p>本文2023-03-15首发于<a href='https://EnderPPT.github.io/'>赛博漫游指南</a>，最后修改于2023-03-15</p>]]></description></item></channel></rss>
+        <hr><p>本文2025-06-09首发于<a href='https://EnderPPT.github.io/'>赛博漫游指南</a>，最后修改于2025-06-09</p>]]></description></item></channel></rss>
