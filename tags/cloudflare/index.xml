@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cloudflare on 赛博漫游指南</title><link>https://EnderPPT.github.io/tags/cloudflare/</link><description>Recent content from 赛博漫游指南</description><generator>Hugo</generator><language>zh-cn</language><managingEditor>2659499379@qq.com (EnderPPT)</managingEditor><webMaster>2659499379@qq.com (EnderPPT)</webMaster><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Wed, 11 Jun 2025 21:26:18 +0800</lastBuildDate><atom:link href="https://EnderPPT.github.io/tags/cloudflare/index.xml" rel="self" type="application/rss+xml"/><item><title>使用 Cloudflare 加速访问 Github Pages</title><link>https://EnderPPT.github.io/post/faster-github-pages-with-cloudflare/</link><pubDate>Wed, 11 Jun 2025 21:26:18 +0800</pubDate><author>2659499379@qq.com (EnderPPT)</author><guid>https://EnderPPT.github.io/post/faster-github-pages-with-cloudflare/</guid><description>
+<![CDATA[<h1>使用 Cloudflare 加速访问 Github Pages</h1><p>作者：EnderPPT（2659499379@qq.com）</p>
+        
+          <h1 id="前言">
+<a class="header-anchor" href="#%e5%89%8d%e8%a8%80"></a>
+前言
+</h1><p>搭建好自己的博客，发现不能从国内直接访问，于是去网上学习了一下，发现可以用Cloudflare加速国内的访问，即使由于Cloudflare在国内没有节点，访问速度慢一些，不过至少是可以访问了。</p>
+        
+        <hr><p>本文2025-06-11首发于<a href='https://EnderPPT.github.io/'>赛博漫游指南</a>，最后修改于2025-06-11</p>]]></description></item></channel></rss>
