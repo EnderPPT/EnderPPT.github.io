@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Azure on 赛博漫游指南</title><link>https://EnderPPT.github.io/tags/azure/</link><description>Recent content from 赛博漫游指南</description><generator>Hugo</generator><language>zh-CN</language><managingEditor>2659499379@qq.com (EnderPPT)</managingEditor><webMaster>2659499379@qq.com (EnderPPT)</webMaster><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Wed, 18 Mar 2026 19:39:52 +0800</lastBuildDate><atom:link href="https://EnderPPT.github.io/tags/azure/index.xml" rel="self" type="application/rss+xml"/><item><title>微软 Azure 搭建 VLESS-Reality 节点 + Clash Verge 指南。</title><link>https://EnderPPT.github.io/post/azure-vless-reality/</link><pubDate>Wed, 18 Mar 2026 19:39:52 +0800</pubDate><author>2659499379@qq.com (EnderPPT)</author><guid>https://EnderPPT.github.io/post/azure-vless-reality/</guid><description>
+<![CDATA[<h1>微软 Azure 搭建 VLESS-Reality 节点 + Clash Verge 指南。</h1><p>作者：EnderPPT（2659499379@qq.com）</p>
+        
+          <h1 id="前言">
+<a class="header-anchor" href="#%e5%89%8d%e8%a8%80"></a>
+前言
+</h1><p>被垃圾机场极差的连接质量气到了，打算用微软云（Azure）搭一个属于自己的代理节点。但是在网上搜了一圈，发现那些打着“2026最新”旗号的教程，全都是教人装老掉牙的 VMess + KCP 协议。在现在的网络环境下用那些老协议，简直是给防火墙主动送头，分分钟 IP 被墙。</p>
+        
+        <hr><p>本文2026-03-18首发于<a href='https://EnderPPT.github.io/'>赛博漫游指南</a>，最后修改于2026-03-18</p>]]></description></item></channel></rss>

@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'child-fun-sans-demo';
+    src: url('/fonts/child-fun-sans-demo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, span, a, li {
+    font-family: 'child-fun-sans-demo', sans-serif !important;
+}
